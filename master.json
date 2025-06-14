@@ -1,0 +1,574 @@
+{
+  "Class 1": null,
+  "Class 2": null,
+  "Class 3": null,
+  "Class 4": null,
+  "Class 5": null,
+  "Class 6": null,
+  "Class 7": null,
+  "Class 8": {
+    "Guide": {
+      "BGS": [
+        {
+          "name": "Chapter 1",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/BGS/bogs%201.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 2",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/BGS/bogs%202.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 3",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/BGS/bogs%203.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 4",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/BGS/bogs%204.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 5",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/BGS/bogs%205.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 6",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/BGS/bogs%206.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 7",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/BGS/bogs%207.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 8",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/BGS/bogs%208.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 9",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/BGS/bogs%209.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 10",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/BGS/bogs%2010.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 11",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/BGS/bogs%2011.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 12",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/BGS/bogs%2012.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 13",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/BGS/bogs%2013.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 14",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/BGS/bogs%2014.pdf",
+          "type": "Guide"
+        }
+      ],
+      "Bangla": {
+        "Anandho Path": [
+          {
+            "name": "Chapter 26",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Anandho%20Path/AA%2026.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 27",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Anandho%20Path/AA%2027.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 28",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Anandho%20Path/AA%2028.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 29",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Anandho%20Path/AA%2029.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 30",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Anandho%20Path/AA%2030.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 31",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Anandho%20Path/AA%2031.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 32",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Anandho%20Path/AA%2032.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 33",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Anandho%20Path/AA%2033.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 34",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Anandho%20Path/AA%2034.pdf",
+            "type": "Guide"
+          }
+        ],
+        "Goddho": [
+          {
+            "name": "Chapter 1",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Goddho/banga%201.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 2",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Goddho/banga%202.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 3",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Goddho/banga%203.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 4",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Goddho/banga%204.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 5",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Goddho/banga%205.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 6",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Goddho/banga%206.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 7",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Goddho/banga%207.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 8",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Goddho/banga%208.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 9",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Goddho/banga%209.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 10",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Goddho/banga%2010.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 11",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Goddho/banga%2011.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 12",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Goddho/banga%2012.pdf",
+            "type": "Guide"
+          }
+        ],
+        "Model Question": [
+          {
+            "name": "Model Question",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Model%20Question/AA%2035.pdf",
+            "type": "Guide"
+          }
+        ],
+        "Poddho": [
+          {
+            "name": "Chapter 13",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Poddho/banga%2013.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 14",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Poddho/banga%2014.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 15",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Poddho/banga%2015.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 16",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Poddho/banga%2016.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 17",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Poddho/banga%2017.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 18",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Poddho/banga%2018.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 19",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Poddho/banga%2019.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 20",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Poddho/banga%2020.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 21",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Poddho/banga%2021.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 22",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Poddho/banga%2022.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 23",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Poddho/banga%2023.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 24",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Poddho/banga%2024.pdf",
+            "type": "Guide"
+          },
+          {
+            "name": "Chapter 25",
+            "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Bangla/Poddho/banga%2025.pdf",
+            "type": "Guide"
+          }
+        ]
+      },
+      "ICT": [
+        {
+          "name": "Chapter 1",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/ICT/ICT%201.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 2",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/ICT/ICT%202.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 3",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/ICT/ICT%203.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 4",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/ICT/ICT%204.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 5",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/ICT/ICT%205.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 7",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/ICT/ICT%207.pdf",
+          "type": "Guide"
+        }
+      ],
+      "Islam": [
+        {
+          "name": "Chapter 1",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Islam/Isl%201.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 2",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Islam/Isl%202.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 3",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Islam/Isl%203.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 4",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Islam/Isl%204.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 5",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Islam/Isl%205.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 6",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Islam/Isl%206.pdf",
+          "type": "Guide"
+        }
+      ],
+      "Math": [
+        {
+          "name": "Chapter 1",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Math/Mathe%201.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 2",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Math/Mathe%202.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 3",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Math/Mathe%203.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 4",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Math/Mathe%204.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 5",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Math/Mathe%205.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 6",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Math/Mathe%206.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 7",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Math/Mathe%207.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 8",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Math/Mathe%208.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 9",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Math/Mathe%209.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 10",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Math/Mathe%2010.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 11",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Math/Mathe%2011.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 12",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Math/Mathe%2012.pdf",
+          "type": "Guide"
+        }
+      ],
+      "Science": [
+        {
+          "name": "Chapter 1",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Science/Scie%201.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 2",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Science/Scie%202.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 3",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Science/Scie%203.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 4",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Science/Scie%204.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 5",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Science/Scie%205.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 6",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Science/Scie%206.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 7",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Science/Scie%207.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 8",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Science/Scie%208.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 9",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Science/Scie%209.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 10",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Science/Scie%2010.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 11",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Science/Scie%2011.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 12",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Science/Scie%2012.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 13",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Science/Scie%2013.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 14",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Science/Scie%2014.pdf",
+          "type": "Guide"
+        },
+        {
+          "name": "Chapter 15",
+          "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Guide/Science/Scie%2015.pdf",
+          "type": "Guide"
+        }
+      ]
+    },
+    "Main Book": [
+      {
+        "name": "Agriculture_Com",
+        "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Main%20Book/Agriculture_Com.pdf",
+        "type": "Main Book"
+      },
+      {
+        "name": "Anondopath Class 8",
+        "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Main%20Book/Anondopath%20Class%208.pdf",
+        "type": "Main Book"
+      },
+      {
+        "name": "Art and Craft_Com EV Class-8",
+        "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Main%20Book/Art%20and%20Craft_Com%20EV%20Class-8.pdf",
+        "type": "Main Book"
+      },
+      {
+        "name": "Bangla Bekaron O Nirmiti Class 8",
+        "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Main%20Book/Bangla%20Bekaron%20O%20Nirmiti%20Class%208.pdf",
+        "type": "Main Book"
+      },
+      {
+        "name": "Bangladesh and global_Com",
+        "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Main%20Book/Bangladesh%20and%20global_Com.pdf",
+        "type": "Main Book"
+      },
+      {
+        "name": "Buddha_Com",
+        "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Main%20Book/Buddha_Com.pdf",
+        "type": "Main Book"
+      },
+      {
+        "name": "Cristan_Com",
+        "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Main%20Book/Cristan_Com.pdf",
+        "type": "Main Book"
+      },
+      {
+        "name": "English For Today Class 8",
+        "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Main%20Book/English%20For%20Today%20Class%208.pdf",
+        "type": "Main Book"
+      },
+      {
+        "name": "English Grammar & Composition Class 8",
+        "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Main%20Book/English%20Grammar%20%26%20Composition%20Class%208.pdf",
+        "type": "Main Book"
+      },
+      {
+        "name": "Hindhu _Com",
+        "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Main%20Book/Hindhu%20_Com.pdf",
+        "type": "Main Book"
+      },
+      {
+        "name": "Home Science _Com",
+        "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Main%20Book/Home%20Science%20_Com.pdf",
+        "type": "Main Book"
+      },
+      {
+        "name": "ICT_Com",
+        "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Main%20Book/ICT_Com.pdf",
+        "type": "Main Book"
+      },
+      {
+        "name": "Islam _Com",
+        "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Main%20Book/Islam%20_Com.pdf",
+        "type": "Main Book"
+      },
+      {
+        "name": "Mathematics_Com",
+        "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Main%20Book/Mathematics_Com.pdf",
+        "type": "Main Book"
+      },
+      {
+        "name": "Pali Class 8",
+        "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Main%20Book/Pali%20Class%208.pdf",
+        "type": "Main Book"
+      },
+      {
+        "name": "Physical education_Com",
+        "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Main%20Book/Physical%20education_Com.pdf",
+        "type": "Main Book"
+      },
+      {
+        "name": "Science_Com",
+        "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Main%20Book/Science_Com.pdf",
+        "type": "Main Book"
+      },
+      {
+        "name": "Shahito Konika Class 8",
+        "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Main%20Book/Shahito%20Konika%20Class%208.pdf",
+        "type": "Main Book"
+      },
+      {
+        "name": "Shohoj Arbi Path Class 8",
+        "url": "https://raw.githubusercontent.com/itsrifathridoy/Books-Collections/bd23aed08fd8e6f51ea7ab1e86dd596ca0b40421/Class%208/Main%20Book/Shohoj%20Arbi%20Path%20Class%208.pdf",
+        "type": "Main Book"
+      }
+    ]
+  },
+  "Class 9": null,
+  "Class 10": null,
+  "Class 11": null,
+  "Class 12": null
+}
